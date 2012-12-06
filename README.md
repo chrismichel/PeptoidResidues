@@ -6,7 +6,7 @@ PeptoidResidues
 A repo for all of the peptoid residues built by the Voelz Lab.
 
 <h3>Getting Started</h3>
-
+To be continued...
 
 
 
