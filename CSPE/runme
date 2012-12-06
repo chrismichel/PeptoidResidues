@@ -1,0 +1,2 @@
+# make the residue
+python ../../scripts/Allsteps_VAV.py CSPE CSPE_CappingAtoms.dat C G 0.0 -s N

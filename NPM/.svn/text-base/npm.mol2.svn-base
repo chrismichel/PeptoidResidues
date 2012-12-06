@@ -1,0 +1,9 @@
+@<TRIPOS>MOLECULE
+scratch
+35 35 1 0 0
+SMALL
+AMBER ff99SB
+
+
+@<TRIPOS>ATOM
+      1 C1          0.0000    0.0000    0.0000

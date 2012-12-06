@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repo/!svn/ver/265/tutorials/buildamolecule/PeptoidResidues/NDMP
+END
+NDMP.mol2
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repo/!svn/ver/265/tutorials/buildamolecule/PeptoidResidues/NDMP/NDMP.mol2
+END
+runme
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/!svn/ver/265/tutorials/buildamolecule/PeptoidResidues/NDMP/runme
+END
+NDMP_CappingAtoms.dat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/!svn/ver/265/tutorials/buildamolecule/PeptoidResidues/NDMP/NDMP_CappingAtoms.dat
+END

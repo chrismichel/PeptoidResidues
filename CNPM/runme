@@ -1,0 +1,3 @@
+#build the residue
+python ../../scripts/Allsteps_VAV.py cnpm_SYBYL CNPM_CappingAtoms.dat C G 0 -s N2 
+

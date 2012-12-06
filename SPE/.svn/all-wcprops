@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repo/!svn/ver/312/tutorials/buildamolecule/PeptoidResidues/SPE
+END
+SPE.gaff_edited.mol2
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/!svn/ver/312/tutorials/buildamolecule/PeptoidResidues/SPE/SPE.gaff_edited.mol2
+END
+SPE_sybyl.mol2
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repo/!svn/ver/312/tutorials/buildamolecule/PeptoidResidues/SPE/SPE_sybyl.mol2
+END
+SPE_gaff.mol2
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/!svn/ver/312/tutorials/buildamolecule/PeptoidResidues/SPE/SPE_gaff.mol2
+END
+runme
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repo/!svn/ver/312/tutorials/buildamolecule/PeptoidResidues/SPE/runme
+END
+SPE.gaff_edited.mol2.frcmod
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/!svn/ver/312/tutorials/buildamolecule/PeptoidResidues/SPE/SPE.gaff_edited.mol2.frcmod
+END
+dlm_edit.frcmod
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repo/!svn/ver/312/tutorials/buildamolecule/PeptoidResidues/SPE/dlm_edit.frcmod
+END
+SPE.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/!svn/ver/312/tutorials/buildamolecule/PeptoidResidues/SPE/SPE.pdb
+END
+ANTECHAMBER_BOND_TYPE.AC
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/!svn/ver/312/tutorials/buildamolecule/PeptoidResidues/SPE/ANTECHAMBER_BOND_TYPE.AC
+END
+ANTECHAMBER_AC.AC
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/!svn/ver/312/tutorials/buildamolecule/PeptoidResidues/SPE/ANTECHAMBER_AC.AC
+END
+SPE.mol2
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo/!svn/ver/312/tutorials/buildamolecule/PeptoidResidues/SPE/SPE.mol2
+END
+SPE.off
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/!svn/ver/312/tutorials/buildamolecule/PeptoidResidues/SPE/SPE.off
+END
+SPE_CappingAtoms.dat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repo/!svn/ver/312/tutorials/buildamolecule/PeptoidResidues/SPE/SPE_CappingAtoms.dat
+END
+ATOMTYPE.INF
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/!svn/ver/312/tutorials/buildamolecule/PeptoidResidues/SPE/ATOMTYPE.INF
+END
+ANTECHAMBER_BOND_TYPE.AC0
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/!svn/ver/312/tutorials/buildamolecule/PeptoidResidues/SPE/ANTECHAMBER_BOND_TYPE.AC0
+END
+ANTECHAMBER_AC.AC0
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/!svn/ver/312/tutorials/buildamolecule/PeptoidResidues/SPE/ANTECHAMBER_AC.AC0
+END

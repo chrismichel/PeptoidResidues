@@ -1,0 +1,9 @@
+@<TRIPOS>MOLECULE
+rpe.pdb
+38 38 1 0 0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 N           7.8340   -4.7350   -8.8390

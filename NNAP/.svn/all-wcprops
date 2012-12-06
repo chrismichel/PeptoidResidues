@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repo/!svn/ver/269/tutorials/buildamolecule/PeptoidResidues/NNAP
+END
+NNAP.mol2
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repo/!svn/ver/267/tutorials/buildamolecule/PeptoidResidues/NNAP/NNAP.mol2
+END
+runme
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/!svn/ver/268/tutorials/buildamolecule/PeptoidResidues/NNAP/runme
+END
+NNAP_CappingAtoms.dat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/!svn/ver/269/tutorials/buildamolecule/PeptoidResidues/NNAP/NNAP_CappingAtoms.dat
+END
