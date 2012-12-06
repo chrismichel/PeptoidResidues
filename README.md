@@ -10,13 +10,9 @@ A repo for all of the peptoid residues built by the Voelz Lab.
 
 
 
-<b>Info</b>
+<b>Info</b><br>
 Chris Michel<br>  
-
-The Voelz Lab  
-  
-Temple University  
-
-Department of Chemistry  
-
-http://www.voelzlab.org
+The Voelz Lab<br>  
+Temple University<br>  
+Department of Chemistry<br>  
+http://www.voelzlab.org<br>
