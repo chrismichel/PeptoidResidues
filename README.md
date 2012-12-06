@@ -1,14 +1,17 @@
 PeptoidResidues
 ===============
 
-Peptoid Resides
 
 
 A repo for all of the peptoid residues built by the Voelz Lab.
 
-<h1>Getting Started</h1>
+<h2>Getting Started</h2>
 
-Chris Michel  
+
+
+
+<b>Info</b>
+Chris Michel<br>  
 
 The Voelz Lab  
   
